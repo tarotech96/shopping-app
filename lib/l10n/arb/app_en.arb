@@ -1,0 +1,11 @@
+{
+        "product_sku": "Product Sku",
+        "product_name": "Product Name",
+        "product_image": "Product Image",
+        "product_regular_price": "Product Regular Price",
+        "product_sale_price": "Product Sale Price",
+        "product_on_sale": "Product On Sale",
+        "product_description": "Product Description",
+        "product_plot": "Product Plot",
+        "product_customer_review_average": "Product Customer Review Average"
+}
